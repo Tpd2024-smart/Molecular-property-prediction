@@ -29,7 +29,7 @@ KNN-based molecular property prediction using text embeddings (Contriever). Pred
 │       └── ...
 └── output_<timestamp>/                 # 自动生成的输出文件夹
     ├── Prediction_Results.xlsx         # 所有分子的预测结果表格
-    └── Chart_Distribution.png         # 概率分布直方图
+    └── Chart_Distribution.png         # 概率分布柱状图
 ```
 
 ---
